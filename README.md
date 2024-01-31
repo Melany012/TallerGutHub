@@ -1,2 +1,2 @@
 # TallerGutHub
-#<h1> Hola clase </h1>
+<h1> Hola clase </h1>
